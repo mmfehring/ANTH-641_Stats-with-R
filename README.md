@@ -16,4 +16,4 @@ If you are using RStudio on your own machine make sure to download ANTH 641 - We
 ## Working with RStudio through binder
 Once you've forked this repo, set up your own binder using your new GitHub repo and replace the link below: 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kgarstki/Working-with-R/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mmfehring/ANTH-641_Stats-with-R/master)
